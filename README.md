@@ -1,1 +1,1 @@
-# Project-Nutrition-Data-Visualization-on-80-cereal-products
+# Project: Nutrition Data Visualization on 80 cereal products
